@@ -19,7 +19,7 @@ const {
 } = useSingleFileAuthState('./vhtear.json')
 
 const sname = '.'
-const owner = ['6281238552767']
+const owner = ['60102810046']
 const Host = "https://api.vhtear.com"
 const Apikey = "your_apikey"
 
